@@ -1,0 +1,6 @@
+**/data/
+*.tar
+*.tar.gz
+*.zip
+*.pkl
+*.pt
